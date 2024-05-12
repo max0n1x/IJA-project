@@ -1,0 +1,602 @@
+{
+    "controlledRobots": {"robot0": {
+        "x": 30,
+        "y": 14
+    }},
+    "obstacles": {
+        "obstacle78": {
+            "x": 28,
+            "y": 18
+        },
+        "obstacle79": {
+            "x": 2,
+            "y": 21
+        },
+        "obstacle130": {
+            "x": 26,
+            "y": 6
+        },
+        "obstacle129": {
+            "x": 26,
+            "y": 7
+        },
+        "obstacle128": {
+            "x": 25,
+            "y": 7
+        },
+        "obstacle70": {
+            "x": 27,
+            "y": 17
+        },
+        "obstacle121": {
+            "x": 35,
+            "y": 1
+        },
+        "obstacle71": {
+            "x": 28,
+            "y": 17
+        },
+        "obstacle120": {
+            "x": 35,
+            "y": 2
+        },
+        "obstacle72": {
+            "x": 29,
+            "y": 17
+        },
+        "obstacle123": {
+            "x": 34,
+            "y": 2
+        },
+        "obstacle73": {
+            "x": 29,
+            "y": 18
+        },
+        "obstacle122": {
+            "x": 34,
+            "y": 1
+        },
+        "obstacle74": {
+            "x": 29,
+            "y": 19
+        },
+        "obstacle125": {
+            "x": 35,
+            "y": 3
+        },
+        "obstacle75": {
+            "x": 28,
+            "y": 19
+        },
+        "obstacle124": {
+            "x": 33,
+            "y": 1
+        },
+        "obstacle76": {
+            "x": 27,
+            "y": 19
+        },
+        "obstacle127": {
+            "x": 24,
+            "y": 7
+        },
+        "obstacle77": {
+            "x": 27,
+            "y": 18
+        },
+        "obstacle126": {
+            "x": 23,
+            "y": 6
+        },
+        "obstacle67": {
+            "x": 22,
+            "y": 21
+        },
+        "obstacle68": {
+            "x": 22,
+            "y": 20
+        },
+        "obstacle69": {
+            "x": 22,
+            "y": 15
+        },
+        "obstacle140": {
+            "x": 31,
+            "y": 10
+        },
+        "obstacle139": {
+            "x": 31,
+            "y": 9
+        },
+        "obstacle132": {
+            "x": 19,
+            "y": 11
+        },
+        "obstacle60": {
+            "x": 29,
+            "y": 7
+        },
+        "obstacle131": {
+            "x": 19,
+            "y": 12
+        },
+        "obstacle61": {
+            "x": 29,
+            "y": 8
+        },
+        "obstacle134": {
+            "x": 5,
+            "y": 4
+        },
+        "obstacle62": {
+            "x": 29,
+            "y": 9
+        },
+        "obstacle133": {
+            "x": 19,
+            "y": 10
+        },
+        "obstacle63": {
+            "x": 22,
+            "y": 16
+        },
+        "obstacle136": {
+            "x": 5,
+            "y": 5
+        },
+        "obstacle64": {
+            "x": 22,
+            "y": 18
+        },
+        "obstacle135": {
+            "x": 5,
+            "y": 6
+        },
+        "obstacle65": {
+            "x": 22,
+            "y": 17
+        },
+        "obstacle138": {
+            "x": 3,
+            "y": 6
+        },
+        "obstacle66": {
+            "x": 22,
+            "y": 19
+        },
+        "obstacle137": {
+            "x": 4,
+            "y": 6
+        },
+        "obstacle2": {
+            "x": 18,
+            "y": 11
+        },
+        "obstacle12": {
+            "x": 8,
+            "y": 6
+        },
+        "obstacle1": {
+            "x": 18,
+            "y": 13
+        },
+        "obstacle13": {
+            "x": 8,
+            "y": 7
+        },
+        "obstacle0": {
+            "x": 18,
+            "y": 12
+        },
+        "obstacle14": {
+            "x": 8,
+            "y": 8
+        },
+        "obstacle15": {
+            "x": 8,
+            "y": 9
+        },
+        "obstacle6": {
+            "x": 15,
+            "y": 7
+        },
+        "obstacle16": {
+            "x": 14,
+            "y": 17
+        },
+        "obstacle5": {
+            "x": 14,
+            "y": 7
+        },
+        "obstacle17": {
+            "x": 15,
+            "y": 17
+        },
+        "obstacle4": {
+            "x": 18,
+            "y": 10
+        },
+        "obstacle18": {
+            "x": 16,
+            "y": 17
+        },
+        "obstacle3": {
+            "x": 18,
+            "y": 9
+        },
+        "obstacle19": {
+            "x": 17,
+            "y": 17
+        },
+        "obstacle9": {
+            "x": 11,
+            "y": 17
+        },
+        "obstacle8": {
+            "x": 10,
+            "y": 17
+        },
+        "obstacle7": {
+            "x": 16,
+            "y": 7
+        },
+        "obstacle107": {
+            "x": 12,
+            "y": 14
+        },
+        "obstacle106": {
+            "x": 13,
+            "y": 14
+        },
+        "obstacle109": {
+            "x": 11,
+            "y": 9
+        },
+        "obstacle108": {
+            "x": 12,
+            "y": 13
+        },
+        "obstacle90": {
+            "x": 9,
+            "y": 15
+        },
+        "obstacle91": {
+            "x": 4,
+            "y": 11
+        },
+        "obstacle92": {
+            "x": 5,
+            "y": 11
+        },
+        "obstacle93": {
+            "x": 6,
+            "y": 11
+        },
+        "obstacle94": {
+            "x": 1,
+            "y": 9
+        },
+        "obstacle101": {
+            "x": 22,
+            "y": 5
+        },
+        "obstacle95": {
+            "x": 1,
+            "y": 10
+        },
+        "obstacle100": {
+            "x": 22,
+            "y": 4
+        },
+        "obstacle96": {
+            "x": 1,
+            "y": 11
+        },
+        "obstacle103": {
+            "x": 22,
+            "y": 7
+        },
+        "obstacle97": {
+            "x": 1,
+            "y": 12
+        },
+        "obstacle102": {
+            "x": 22,
+            "y": 6
+        },
+        "obstacle10": {
+            "x": 12,
+            "y": 17
+        },
+        "obstacle98": {
+            "x": 22,
+            "y": 2
+        },
+        "obstacle105": {
+            "x": 13,
+            "y": 13
+        },
+        "obstacle11": {
+            "x": 13,
+            "y": 17
+        },
+        "obstacle99": {
+            "x": 22,
+            "y": 3
+        },
+        "obstacle104": {
+            "x": 22,
+            "y": 8
+        },
+        "obstacle89": {
+            "x": 9,
+            "y": 14
+        },
+        "obstacle118": {
+            "x": 33,
+            "y": 3
+        },
+        "obstacle117": {
+            "x": 33,
+            "y": 2
+        },
+        "obstacle119": {
+            "x": 34,
+            "y": 3
+        },
+        "obstacle80": {
+            "x": 2,
+            "y": 20
+        },
+        "obstacle81": {
+            "x": 2,
+            "y": 19
+        },
+        "obstacle110": {
+            "x": 11,
+            "y": 10
+        },
+        "obstacle82": {
+            "x": 2,
+            "y": 18
+        },
+        "obstacle83": {
+            "x": 2,
+            "y": 17
+        },
+        "obstacle112": {
+            "x": 12,
+            "y": 9
+        },
+        "obstacle84": {
+            "x": 2,
+            "y": 16
+        },
+        "obstacle111": {
+            "x": 12,
+            "y": 10
+        },
+        "obstacle85": {
+            "x": 2,
+            "y": 15
+        },
+        "obstacle114": {
+            "x": 17,
+            "y": 3
+        },
+        "obstacle86": {
+            "x": 9,
+            "y": 18
+        },
+        "obstacle113": {
+            "x": 17,
+            "y": 2
+        },
+        "obstacle87": {
+            "x": 9,
+            "y": 17
+        },
+        "obstacle116": {
+            "x": 16,
+            "y": 3
+        },
+        "obstacle88": {
+            "x": 9,
+            "y": 13
+        },
+        "obstacle115": {
+            "x": 16,
+            "y": 2
+        },
+        "obstacle34": {
+            "x": 24,
+            "y": 12
+        },
+        "obstacle35": {
+            "x": 23,
+            "y": 12
+        },
+        "obstacle36": {
+            "x": 22,
+            "y": 12
+        },
+        "obstacle37": {
+            "x": 13,
+            "y": 7
+        },
+        "obstacle38": {
+            "x": 12,
+            "y": 7
+        },
+        "obstacle39": {
+            "x": 11,
+            "y": 7
+        },
+        "obstacle30": {
+            "x": 34,
+            "y": 12
+        },
+        "obstacle31": {
+            "x": 35,
+            "y": 12
+        },
+        "obstacle32": {
+            "x": 36,
+            "y": 12
+        },
+        "obstacle33": {
+            "x": 37,
+            "y": 12
+        },
+        "obstacle23": {
+            "x": 27,
+            "y": 12
+        },
+        "obstacle24": {
+            "x": 28,
+            "y": 12
+        },
+        "obstacle25": {
+            "x": 29,
+            "y": 12
+        },
+        "obstacle26": {
+            "x": 30,
+            "y": 12
+        },
+        "obstacle27": {
+            "x": 31,
+            "y": 12
+        },
+        "obstacle28": {
+            "x": 32,
+            "y": 12
+        },
+        "obstacle29": {
+            "x": 33,
+            "y": 12
+        },
+        "obstacle20": {
+            "x": 16,
+            "y": 8
+        },
+        "obstacle21": {
+            "x": 25,
+            "y": 12
+        },
+        "obstacle22": {
+            "x": 26,
+            "y": 12
+        },
+        "obstacle56": {
+            "x": 29,
+            "y": 3
+        },
+        "obstacle57": {
+            "x": 29,
+            "y": 4
+        },
+        "obstacle58": {
+            "x": 29,
+            "y": 5
+        },
+        "obstacle59": {
+            "x": 29,
+            "y": 6
+        },
+        "obstacle50": {
+            "x": 8,
+            "y": 3
+        },
+        "obstacle51": {
+            "x": 9,
+            "y": 3
+        },
+        "obstacle52": {
+            "x": 10,
+            "y": 3
+        },
+        "obstacle53": {
+            "x": 12,
+            "y": 3
+        },
+        "obstacle54": {
+            "x": 11,
+            "y": 3
+        },
+        "obstacle55": {
+            "x": 29,
+            "y": 2
+        },
+        "obstacle45": {
+            "x": 2,
+            "y": 4
+        },
+        "obstacle46": {
+            "x": 2,
+            "y": 5
+        },
+        "obstacle47": {
+            "x": 5,
+            "y": 3
+        },
+        "obstacle48": {
+            "x": 6,
+            "y": 3
+        },
+        "obstacle49": {
+            "x": 7,
+            "y": 3
+        },
+        "obstacle40": {
+            "x": 10,
+            "y": 7
+        },
+        "obstacle41": {
+            "x": 2,
+            "y": 2
+        },
+        "obstacle42": {
+            "x": 2,
+            "y": 1
+        },
+        "obstacle43": {
+            "x": 2,
+            "y": 0
+        },
+        "obstacle44": {
+            "x": 2,
+            "y": 3
+        }
+    },
+    "robots": {
+        "robot0": {
+            "x": 5,
+            "y": 15
+        },
+        "robot1": {
+            "x": 33,
+            "y": 9
+        },
+        "robot4": {
+            "x": 5,
+            "y": 17
+        },
+        "robot5": {
+            "x": 1,
+            "y": 18
+        },
+        "robot2": {
+            "x": 12,
+            "y": 20
+        },
+        "robot3": {
+            "x": 6,
+            "y": 1
+        },
+        "robot6": {
+            "x": 18,
+            "y": 7
+        }
+    }
+}

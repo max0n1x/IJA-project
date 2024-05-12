@@ -1,0 +1,5 @@
+target
+*.jar
+.idea
+dependency-reduced-pom.xml
+doc
